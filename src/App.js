@@ -1,10 +1,10 @@
 import './App.css';
-import RadioForm from "./radioForm/Main"
+import Task1 from "./formsTask/Main"
 
 function App() {
   return (
    <>
-    <RadioForm/>
+    <Task1/>
    </>
   );
 }

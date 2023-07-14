@@ -1,11 +1,10 @@
 import React from 'react'
-import RadioComponent from './RadioComponent'
-import "./style.css"
+import FormComponent from './FormComponent'
 
 function Main() {
   return (
     <div>
-            <RadioComponent/>
+          <FormComponent/>
     </div>
   )
 }
