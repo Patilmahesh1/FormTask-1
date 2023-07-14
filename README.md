@@ -70,6 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# FormTask-1" 
 "# FormTask-2" 
+<<<<<<< HEAD
 "# FormTask-2" 
 "# RadioForm" 
+"# FirstTask" 
+=======
+"# checkboxForm" 
+"# FormwithCheckbox" 
+>>>>>>> b050ef315e996accad27705c11ce7957e517c2ca
 "# FirstTask" 
