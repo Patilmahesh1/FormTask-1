@@ -1,10 +1,10 @@
 import './App.css';
-import Taskforms from "./formsTask/Main"
+import RadioForm from "./radioForm/Main"
 
 function App() {
   return (
    <>
-    <Taskforms/>
+    <RadioForm/>
    </>
   );
 }
